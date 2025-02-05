@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NWTiS_lignjatov_2023.</comment>
+<entry key="brojCekaca">5</entry>
+<entry key="ispis">1</entry>
+<entry key="mreznaVrata">8192</entry>
+<entry key="maksCekanje">5</entry>
+<entry key="brojRadnika">10</entry>
+</properties>
