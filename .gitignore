@@ -95,3 +95,5 @@ local.properties
 derby.log
 
 *.pdf
+
+*.xml
